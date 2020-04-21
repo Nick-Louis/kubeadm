@@ -1,1 +1,0 @@
-FROM gcr.io/google_containers/FROM k8s-dns-dnsmasq-nanny:1.14.1
