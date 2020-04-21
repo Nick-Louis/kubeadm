@@ -10,3 +10,4 @@ k8s.gcr.io/etcd:3.2.24
 k8s.gcr.io/coredns:1.2.6
 
 k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
+k8s.gcr.io/heapster-amd64:v1.6.0-beta.1
